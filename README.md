@@ -1,5 +1,3 @@
-Below is an example of a simple `README.md` file that explains the setup, structure, and running instructions for the MEAN stack application we’ve discussed:
-
 ---
 
 # MEAN Stack Application
