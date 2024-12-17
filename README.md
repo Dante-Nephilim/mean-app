@@ -1,5 +1,3 @@
----
-
 # MEAN Stack Application
 
 This is a basic MEAN (MongoDB, Express, Angular, Node.js) application that demonstrates user registration, login, and profile retrieval using JWT authentication. The application is split into two main parts:
